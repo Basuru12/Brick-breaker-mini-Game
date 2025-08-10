@@ -3,13 +3,7 @@
 A simple **Brick Breaker** game built with [Pygame](https://www.pygame.org/), featuring sound effects, collision handling, and a start/quit menu.  
 The paddle follows your mouse, and the goal is to destroy all bricks without letting the ball fall.
 
----
 
-## 📸 Screenshot
-*(Optional – add an image of your game here)*  
-![Gameplay Screenshot](screenshot.png)
-
----
 
 ## 🚀 Features
 - Start/Quit Menu with clickable buttons  
