@@ -43,7 +43,7 @@ The paddle follows your mouse, and the goal is to destroy all bricks without let
 
 Install Pygame:
 ```bash
-pip install pygame
+pip install pygame```
 🎯 How to Play
 Run the game
 
