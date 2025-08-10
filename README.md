@@ -42,15 +42,8 @@ The paddle follows your mouse, and the goal is to destroy all bricks without let
 - [Pygame](https://www.pygame.org/news) library  
 
 Install Pygame:
-```bash
-pip install pygame```
-🎯 How to Play
-Run the game
 
-bash
-Copy
-Edit
-python main.py
+pip install pygame
 Controls
 
 Mouse – Move the paddle left/right
@@ -71,3 +64,5 @@ Images (.png) with your own sprites
 Sound effects (.mp3) with your own audio files
 
 Adjust SCREEN_WIDTH, SCREEN_HEIGHT, and spd in main.py for difficulty
+
+
